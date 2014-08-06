@@ -1,0 +1,1 @@
+Telling you the current time by click the button.
